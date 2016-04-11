@@ -1,5 +1,5 @@
 FROM phusion/baseimage
-MAINTAINER lonix <lonixx@gmail.com>
+MAINTAINER miller <bharesign@gmail.com>
 
 #Adding Custom files
 ADD init/ /etc/my_init.d/

@@ -1,4 +1,4 @@
-FROM linuxserver/baseimage.python
+FROM phusion/baseimage
 MAINTAINER lonix <lonixx@gmail.com>
 
 #Adding Custom files
